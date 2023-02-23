@@ -1,0 +1,252 @@
+﻿  AnimSpriteObject.cpp
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\AnimSpriteObject.cpp(64,107): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\AnimSpriteObject.cpp(64,89): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  BulletSpriteObject.cpp
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\BulletSpriteObject.cpp(26,26): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\BulletSpriteObject.cpp(62,89): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\BulletSpriteObject.cpp(62,58): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  Camera.cpp
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\Camera.cpp(4,23): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\Camera.cpp(4,15): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  Credits.cpp
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\Credits.cpp(19,49): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\Credits.cpp(19,36): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  GameWorld.cpp
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\GameWorld.cpp(33,62): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\GameWorld.cpp(33,40): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\GameWorld.cpp(34,81): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\GameWorld.cpp(34,59): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\GameWorld.cpp(54,28): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\GameWorld.cpp(114,28): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\GameWorld.cpp(187,80): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\GameWorld.cpp(187,58): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\GameWorld.cpp(188,99): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\GameWorld.cpp(188,77): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  GameWorldLayer.cpp
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\GameWorldLayer.cpp(12,40): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\GameWorldLayer.cpp(13,48): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\GameWorldLayer.cpp(13,40): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\GameWorldLayer.cpp(14,45): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\GameWorldLayer.cpp(17,41): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\GameWorldLayer.cpp(18,49): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\GameWorldLayer.cpp(18,41): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\GameWorldLayer.cpp(19,46): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\GameWorldLayer.cpp(24,11): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\GameWorldLayer.cpp(25,12): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\GameWorldLayer.cpp(26,10): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\GameWorldLayer.cpp(27,13): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\GameWorldLayer.cpp(34,46): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\GameWorldLayer.cpp(34,40): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\GameWorldLayer.cpp(35,47): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\GameWorldLayer.cpp(35,40): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\GameWorldLayer.cpp(36,47): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\GameWorldLayer.cpp(36,40): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\GameWorldLayer.cpp(37,46): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\GameWorldLayer.cpp(37,40): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  Main.cpp
+  MainMenu.cpp
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\MainMenu.cpp(17,51): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\MainMenu.cpp(17,38): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\MainMenu.cpp(18,36): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\MainMenu.cpp(19,46): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\MainMenu.cpp(19,33): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  NPCSpriteObject.cpp
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\NPCSpriteObject.cpp(101,70): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\NPCSpriteObject.cpp(101,48): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  PlayableSpriteObject.cpp
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\PlayableSpriteObject.cpp(48,34): warning C4244: "/=": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\PlayableSpriteObject.cpp(49,34): warning C4244: "/=": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\PlayableSpriteObject.cpp(53,16): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\PlayableSpriteObject.cpp(486,24): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+  SFML_Application.cpp
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\SFML_Application.cpp(21,60): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\SFML_Application.cpp(21,41): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  SpriteAnimation.cpp
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\SpriteAnimation.cpp(32,44): warning C4018: ">=": niezgodność typu ze znakiem/bez znaku
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\SpriteAnimation.cpp(69,20): warning C4018: ">=": niezgodność typu ze znakiem/bez znaku
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\SpriteAnimation.cpp(75,20): warning C4018: ">=": niezgodność typu ze znakiem/bez znaku
+  SpriteObject.cpp
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\SpriteObject.cpp(23,89): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\SpriteObject.cpp(23,58): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\SpriteObject.cpp(62,63): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\SpriteObject.cpp(62,43): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  StoryScreen.cpp
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\StoryScreen.cpp(13,48): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\StoryScreen.cpp(13,36): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\StoryScreen.cpp(24,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  TitleScreen.cpp
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\TitleScreen.cpp(12,49): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\TitleScreen.cpp(12,36): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  Generowanie kodu...
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\SpriteObject.cpp(68): warning C4715: "SpriteObject::setDefTexture”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\PlayableSpriteObject.cpp(509): warning C4715: "PlayableSpriteObject::getCurrentWeapon”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\PRV\Desktop\Coursework\SFML_4209COMP_Week_01\MainMenu.cpp(84): warning C4715: "MainMenu::pressButton”: niewszystkie ścieżki kodu zwracają wartość
+  SFML_4209COMP_Week_01.vcxproj -> C:\Users\PRV\Desktop\Coursework\Debug\Coursework.exe
